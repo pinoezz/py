@@ -1,6 +1,6 @@
 def secret = 'pinoezz'
 def server = 'ubuntu.54.255.206.44'
-def directory = 'sample-py'
+def directory = 'py'
 def branch = 'master'
 
 pipeline{
