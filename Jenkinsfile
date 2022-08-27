@@ -1,5 +1,5 @@
 def secret = 'pinoezz'
-def server = 'ssh -i "id_rsa" ubuntu@ec2-54-255-206-44.ap-southeast-1.compute.amazonaws.com'
+def server = 'ubuntu@54.255.206.44'
 def directory = 'py'
 def branch = 'master'
 
